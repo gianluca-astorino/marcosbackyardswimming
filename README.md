@@ -1,13 +1,8 @@
 # [Website Created By Gianluca Astorino]
-using (https://startbootstrap.com/template-overviews/agency/)
+Using (https://startbootstrap.com/template-overviews/agency/)
 
-[Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+(NOTE)* THIS WEBSITE HAS BEEN CHANGED AND CUSTOMIZED FOR A BUSINESS USE
 
-## Preview
-
-[![Agency Preview](https://startbootstrap.com/assets/img/screenshots/themes/agency.png)](https://blackrockdigital.github.io/startbootstrap-agency/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
 
 ## Status
 
@@ -17,7 +12,7 @@ using (https://startbootstrap.com/template-overviews/agency/)
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency?type=dev)
 
-## Download and Installation
+## Download and Installation of template for use
 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
